@@ -8,7 +8,15 @@
   "instanceCreationOrder":[],
   "isDnd":false,
   "layers":[
-    {"$GMRTileLayer":"","%Name":"Tiles_Ground","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Tiles_Ground","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":0,"SerialiseWidth":0,"TileSerialiseData":[],},"tilesetId":null,"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
+    {"$GMRTileLayer":"","%Name":"Tiles_Ground","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Tiles_Ground","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":16,"SerialiseWidth":40,"TileCompressedData":[
+          -259,-2147483648,1,31,-3,32,1,33,-32,-2147483648,1,34,-23,-2147483648,2,1,3,-11,-2147483648,1,34,-26,
+          -2147483648,2,13,15,-38,-2147483648,2,13,15,-9,-2147483648,7,1,2,2,3,-2147483648,-2147483648,1,-11,2,
+          5,3,-2147483648,0,0,1,-5,2,4,3,13,28,3,-8,-2147483648,7,13,14,14,15,-2147483648,-2147483648,13,-6,14,
+          -5,26,5,27,-2147483648,34,-2147483648,13,-5,14,5,15,13,14,28,3,-5,-2147483648,9,1,2,30,14,14,15,-2147483648,
+          -2147483648,13,-5,14,1,15,-9,-2147483648,1,13,-5,14,5,15,13,14,14,28,-5,2,1,30,-4,14,4,15,-2147483648,
+          -2147483648,13,-5,14,1,15,-3,-2147483648,1,1,-5,29,1,30,-5,14,2,15,13,-13,14,4,15,-2147483648,-2147483648,
+          13,-5,14,1,28,-3,29,1,30,-11,14,2,15,25,-13,26,4,27,-2147483648,-2147483648,25,-21,26,1,27,
+        ],"TileDataFormat":1,},"tilesetId":{"name":"TileSet_Ground","path":"tilesets/TileSet_Ground/TileSet_Ground.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
     {"$GMRBackgroundLayer":"","%Name":"Back_Trees_02","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":true,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Back_Trees_02","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"Back_trees_02","path":"sprites/Back_trees_02/Back_trees_02.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":600,},
     {"$GMRBackgroundLayer":"","%Name":"Back_Trees_01","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":true,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Back_Trees_01","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"Back_trees_01","path":"sprites/Back_trees_01/Back_trees_01.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":600,},
     {"$GMRAssetLayer":"","%Name":"Back_Clouds","assets":[
