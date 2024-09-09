@@ -17,6 +17,6 @@ repeat(move_count){	/// @DnDAction : YoYo Games.Instances.Set_Instance_Var
 	/// @DnDVersion : 1
 	/// @DnDHash : 0F141CC3
 	/// @DnDParent : 476CF67A
-	/// @DnDArgument : "value" "move_speed"
+	/// @DnDArgument : "value" "move_amount"
 	/// @DnDArgument : "value_relative" "1"
-	x += move_speed;}
+	x += move_amount;}
